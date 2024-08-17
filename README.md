@@ -1,7 +1,5 @@
 ﻿# js-lesson-1
 
-### https://youtu.be/31dmameWOR8?si=fpD8jMicbHT0EFD7
-
 ### **Dasturlash tillari**
 
 - **C**: 1970-yillarda yaratilgan kuchli umumiy maqsadli dasturlash tili. Asosiy tizim va ilovalar dasturlashda ishlatiladi.
